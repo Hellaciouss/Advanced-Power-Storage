@@ -19,7 +19,7 @@ data:extend({
     },
     picture =
     {
-      filename = "__base__/graphics/entity/basic-accumulator/basic-accumulator.png",
+      filename = "__Advanced Power Storage Mod__/graphics/entity/advanced-accumulator/advanced.accumulator.png",
       priority = "extra-high",
       width = 124,
       height = 103,
